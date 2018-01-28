@@ -1,1 +1,0 @@
-4,Finder,Terminal,Script Editor,App Store,745,663,770,387,27,648,671,411,749,96,848,542,73,42,932,620

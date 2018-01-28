@@ -1,3 +1,0 @@
-#!/bin/bash
-
-osascript pane.scpt pull piz
